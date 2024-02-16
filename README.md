@@ -9,3 +9,7 @@
 2. Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 
    - [x] [Luhn Algorithm](https://github.com/dev-araujo/Scientific-Computing-with-Python/tree/main/luhn-algorithm)
+
+3. Learn Lambda Functions by Building an Expense Tracker
+
+   - [x] [Lambda Functions - Expense Tracker](https://github.com/dev-araujo/Scientific-Computing-with-Python/tree/main/04_habit-tracker-lambda-func)
