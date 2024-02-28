@@ -13,3 +13,11 @@
 3. Learn Lambda Functions by Building an Expense Tracker
 
    - [x] [Lambda Functions - Expense Tracker](https://github.com/dev-araujo/Scientific-Computing-with-Python/tree/main/04_habit-tracker-lambda-func)
+
+4. Learn Python List Comprehension by Building a Case Converter Program
+
+   - [x] [Case Converter Program](https://github.com/dev-araujo/Scientific-Computing-with-Python/blob/main/05_list-case-converter/case_converter.py)
+  
+5. Learn Regular Expressions by Building a Password Generator
+
+   - [x] [Password Generator](https://github.com/dev-araujo/Scientific-Computing-with-Python/blob/main/06_generator-password/regex.py)
