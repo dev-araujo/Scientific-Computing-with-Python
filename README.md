@@ -21,3 +21,6 @@
 5. Learn Regular Expressions by Building a Password Generator
 
    - [x] [Password Generator](https://github.com/dev-araujo/Scientific-Computing-with-Python/blob/main/06_generator-password/regex.py)
+6. Learn Recursion by Solving the Tower of Hanoi Puzzle
+
+   - [x] [Tower of Hanoi](https://github.com/dev-araujo/Scientific-Computing-with-Python/tree/main/08_tower-of-hanoi)
