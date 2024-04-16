@@ -40,5 +40,5 @@
 
 10. Learn Tree Traversal by Building a Binary Search Tree
 
-   - [x] [Binary search tree](https://github.com/dev-araujo/Scientific-Computing-with-Python/blob/main/11_binary-search-tree/bynary.py)
+    - [x] [Binary search tree](https://github.com/dev-araujo/Scientific-Computing-with-Python/blob/main/11_binary-search-tree/bynary.py)
 
