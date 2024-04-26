@@ -1,5 +1,7 @@
 # Scientific Computing with Python
 
+> Os projetos finais do bootcamp podem ser acessados [aqui](https://github.com/dev-araujo/Scientific-Computing-with-Python-Projects)
+
   Meus estudos do curso Scientific Computing with Python do FreeCodeCamp:
 
 1. Learn String Manipulation by Building a Cipher
